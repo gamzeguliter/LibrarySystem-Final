@@ -24,6 +24,7 @@
   color: white;
 }
 
+
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +37,16 @@
     transform: rotate(360deg);
   }
 }
+.User-title{
+  color : blue;
+}
+
+
+body {
+  font-family: "Open Sans", sans-serif;
+  height: 100vh;
+  background: url("./library3.jpg") 50% fixed;
+  background-size: cover;
+}
+
+
